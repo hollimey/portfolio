@@ -6,4 +6,3 @@ The project sought to create an interactive dashboard that explores environmenta
 
 ### View the interactive workbook:
 https://public.tableau.com/app/profile/holli.meyers/viz/shared/CJZNZ584H
-
